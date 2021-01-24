@@ -1,0 +1,13 @@
+C:\Users\Aykut\source\repos\GamePlatform\GamePlatform\bin\Debug\netcoreapp3.1\GamePlatform.exe
+C:\Users\Aykut\source\repos\GamePlatform\GamePlatform\bin\Debug\netcoreapp3.1\GamePlatform.deps.json
+C:\Users\Aykut\source\repos\GamePlatform\GamePlatform\bin\Debug\netcoreapp3.1\GamePlatform.runtimeconfig.json
+C:\Users\Aykut\source\repos\GamePlatform\GamePlatform\bin\Debug\netcoreapp3.1\GamePlatform.runtimeconfig.dev.json
+C:\Users\Aykut\source\repos\GamePlatform\GamePlatform\bin\Debug\netcoreapp3.1\GamePlatform.dll
+C:\Users\Aykut\source\repos\GamePlatform\GamePlatform\bin\Debug\netcoreapp3.1\GamePlatform.pdb
+C:\Users\Aykut\source\repos\GamePlatform\GamePlatform\obj\Debug\netcoreapp3.1\GamePlatform.csprojAssemblyReference.cache
+C:\Users\Aykut\source\repos\GamePlatform\GamePlatform\obj\Debug\netcoreapp3.1\GamePlatform.AssemblyInfoInputs.cache
+C:\Users\Aykut\source\repos\GamePlatform\GamePlatform\obj\Debug\netcoreapp3.1\GamePlatform.AssemblyInfo.cs
+C:\Users\Aykut\source\repos\GamePlatform\GamePlatform\obj\Debug\netcoreapp3.1\GamePlatform.csproj.CoreCompileInputs.cache
+C:\Users\Aykut\source\repos\GamePlatform\GamePlatform\obj\Debug\netcoreapp3.1\GamePlatform.dll
+C:\Users\Aykut\source\repos\GamePlatform\GamePlatform\obj\Debug\netcoreapp3.1\GamePlatform.pdb
+C:\Users\Aykut\source\repos\GamePlatform\GamePlatform\obj\Debug\netcoreapp3.1\GamePlatform.genruntimeconfig.cache
